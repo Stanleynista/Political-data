@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="politics.png" >
+  <img src="politics.jpg" >
 </p>
 
 # Political-data
