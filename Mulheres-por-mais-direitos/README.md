@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="Mulheres-por-mais-direitos.png" >
 </p>
